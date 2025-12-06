@@ -1,0 +1,1178 @@
+[
+  {
+    "title": "abc",
+    "developer": "cqknknqc",
+    "description": "nknjcqjndj",
+    "mode": "sell",
+    "category": "residential",
+    "price": 33444,
+    "currency": "INR",
+    "areaSqFt": 90223,
+    "beds": 2,
+    "baths": 3,
+    "location": {
+      "city": "kjnfnq",
+      "neighborhood": "fnjnoqifn"
+    },
+    "tags": [
+      "community listing"
+    ],
+    "amenities": [],
+    "heroImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "yield": 0,
+    "status": "sold",
+    "yearBuilt": 2025,
+    "ownerId": "9cb67337-2c7b-4d7d-a3c3-9455ba3b9d75",
+    "id": "58a39b12-1ca4-452d-9e19-9b479a54d844",
+    "createdAt": "2025-12-06T13:54:06.282Z"
+  },
+  {
+    "title": "modern cozy ",
+    "developer": "rishi",
+    "description": "good overall",
+    "mode": "rent",
+    "category": "residential",
+    "price": 100000,
+    "currency": "INR",
+    "areaSqFt": 1200,
+    "beds": 2,
+    "baths": 2,
+    "location": {
+      "city": "Bangalore",
+      "neighborhood": "brookfield"
+    },
+    "tags": [
+      "community listing"
+    ],
+    "amenities": [],
+    "heroImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "yield": 0,
+    "status": "submitted",
+    "yearBuilt": 2025,
+    "id": "ae43ef20-41fc-42bc-a534-c8e6a155a2eb",
+    "createdAt": "2025-11-24T15:56:07.283Z"
+  },
+  {
+    "id": "mb-runwal-elegante",
+    "mode": "buy",
+    "category": "residential",
+    "title": "Runwal Elegante 3 BHK",
+    "developer": "Runwal Group",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "neighborhood": "Lower Parel",
+      "addressLine": "Senapati Bapat Marg, near High Street Phoenix, Lower Parel",
+      "pincode": "400013",
+      "geo": [
+        19.0033,
+        72.8296
+      ]
+    },
+    "price": 45000000,
+    "currency": "INR",
+    "beds": 3,
+    "baths": 3,
+    "areaSqFt": 1650,
+    "yearBuilt": 2022,
+    "status": "ready-to-move",
+    "tags": [
+      "sea facing",
+      "modular kitchen",
+      "2 covered parking"
+    ],
+    "amenities": [
+      "Swimming pool",
+      "Gym",
+      "Childrens play area",
+      "High-speed lifts"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1505693314120-0d443867891c?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Spacious 3 BHK with balcony deck, branded interiors, and walking distance to High Street Phoenix.",
+    "yield": 0
+  },
+  {
+    "id": "mb-brigade-lakefront",
+    "mode": "buy",
+    "category": "residential",
+    "title": "Brigade Lakefront 2.5 BHK",
+    "developer": "Brigade Group",
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "neighborhood": "Whitefield",
+      "addressLine": "EPIP Zone, Whitefield Main Road, Whitefield",
+      "pincode": "560066",
+      "geo": [
+        12.9698,
+        77.75
+      ]
+    },
+    "price": 16500000,
+    "currency": "INR",
+    "beds": 2,
+    "baths": 2,
+    "areaSqFt": 1450,
+    "yearBuilt": 2021,
+    "status": "ready-to-move",
+    "tags": [
+      "lake view",
+      "Vaastu compliant",
+      "clubhouse access"
+    ],
+    "amenities": [
+      "2 clubhouses",
+      "Indoor games",
+      "Power backup",
+      "Visitor parking"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505692794400-5e0f0c4b69b5?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Corner unit with separate study, utility room, and covered car park near ITPL and Metro station.",
+    "yield": 0
+  },
+  {
+    "id": "rent-sobha-dream",
+    "mode": "rent",
+    "category": "residential",
+    "title": "Sobha Dream Acres 2 BHK",
+    "developer": "Sobha Limited",
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "neighborhood": "Panathur",
+      "addressLine": "Varthur Hobli, Off ORR, Panathur",
+      "pincode": "560087",
+      "geo": [
+        12.948,
+        77.711
+      ]
+    },
+    "price": 32000,
+    "currency": "INR",
+    "beds": 2,
+    "baths": 2,
+    "areaSqFt": 1200,
+    "yearBuilt": 2019,
+    "status": "available",
+    "tags": [
+      "semi furnished",
+      "fans & lights",
+      "immediate move-in"
+    ],
+    "amenities": [
+      "15-acre campus",
+      "Cricket nets",
+      "Mini theatre"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470246973918-29a93221c455?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "East-facing unit on mid floor with covered car park and maintenance included in rent.",
+    "yield": 0
+  },
+  {
+    "id": "rent-mumbai-seaface",
+    "mode": "rent",
+    "category": "residential",
+    "title": "Sea Breeze Tower 3 BHK",
+    "developer": "Raheja",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "neighborhood": "Prabhadevi",
+      "addressLine": "Veer Savarkar Marg, Prabhadevi",
+      "pincode": "400025",
+      "geo": [
+        19.0169,
+        72.8305
+      ]
+    },
+    "price": 145000,
+    "currency": "INR",
+    "beds": 3,
+    "baths": 3,
+    "areaSqFt": 1800,
+    "yearBuilt": 2018,
+    "status": "available",
+    "tags": [
+      "sea view balcony",
+      "fully furnished",
+      "servant room"
+    ],
+    "amenities": [
+      "Clubhouse",
+      "Gym",
+      "Power backup"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Ready-to-move flat with premium furniture, servant washroom, and sea-link view.",
+    "yield": 0
+  },
+  {
+    "id": "commercial-hitec-itpark",
+    "mode": "sell",
+    "category": "commercial",
+    "title": "Hitec City IT Park Block",
+    "developer": "Phoenix",
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "neighborhood": "Hitec City",
+      "addressLine": "Kondapur Main Road, Hitec City",
+      "pincode": "500081",
+      "geo": [
+        17.4413,
+        78.382
+      ]
+    },
+    "price": 900000000,
+    "currency": "INR",
+    "beds": 0,
+    "baths": 10,
+    "areaSqFt": 52000,
+    "yearBuilt": 2024,
+    "status": "under-construction",
+    "tags": [
+      "Grade A",
+      "LEED gold",
+      "warm shell"
+    ],
+    "amenities": [
+      "Cafeteria",
+      "100% DG backup",
+      "Multi-level parking"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1451976426598-a7593bd6d0b2?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505692794400-5e0f0c4b69b5?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Standalone IT block with 3 basements, 2 high-rise towers, and proposed metro station nearby.",
+    "yield": 0
+  },
+  {
+    "id": "villa-goa-candolim",
+    "mode": "sell",
+    "category": "villa",
+    "title": "Candolim Beach Villa 5 BHK",
+    "developer": "Independent",
+    "location": {
+      "city": "Goa",
+      "state": "Goa",
+      "neighborhood": "Candolim",
+      "addressLine": "Bamana Waddo, Candolim Beach Road",
+      "pincode": "403515",
+      "geo": [
+        15.518,
+        73.762
+      ]
+    },
+    "price": 52000000,
+    "currency": "INR",
+    "beds": 5,
+    "baths": 5,
+    "areaSqFt": 6000,
+    "yearBuilt": 2020,
+    "status": "ready-to-move",
+    "tags": [
+      "private pool",
+      "staff quarters",
+      "holiday rental potential"
+    ],
+    "amenities": [
+      "Deck area",
+      "Landscaped garden",
+      "CCTV security"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505692794400-5e0f0c4b69b5?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Fully furnished villa ideal for second-home buyers and Airbnb investors, 300 m from beach.",
+    "yield": 0
+  },
+  {
+    "id": "buy-pune-kharadi-apartment-1bhk-1",
+    "mode": "buy",
+    "category": "apartment",
+    "title": "Kharadi 1 BHK Starter Home",
+    "developer": "Raviraj Realty",
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "neighborhood": "Kharadi",
+      "addressLine": "Near EON IT Park, Kharadi",
+      "pincode": "411014",
+      "geo": [
+        18.5511,
+        73.944
+      ]
+    },
+    "price": 6200000,
+    "currency": "INR",
+    "beds": 1,
+    "baths": 1,
+    "areaSqFt": 610,
+    "yearBuilt": 2023,
+    "status": "under-construction",
+    "tags": [
+      "1 BHK",
+      "near IT park",
+      "high rental demand"
+    ],
+    "amenities": [
+      "Clubhouse",
+      "Gym",
+      "Children's play area"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1560448075-bb485b067938?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1502672023488-70e25813eb80?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1496307653780-43cda5a0b2a6?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Compact 1 BHK in a gated community, ideal for first-time buyers and IT professionals working in Kharadi.",
+    "yield": 0
+  },
+  {
+    "id": "buy-pune-wakad-2bhk-society-2",
+    "mode": "buy",
+    "category": "society-flat",
+    "title": "Wakad 2 BHK Society Flat",
+    "developer": "Kolte Patil",
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "neighborhood": "Wakad",
+      "addressLine": "Datta Mandir Road, Wakad",
+      "pincode": "411057",
+      "geo": [
+        18.5987,
+        73.7806
+      ]
+    },
+    "price": 8900000,
+    "currency": "INR",
+    "beds": 2,
+    "baths": 2,
+    "areaSqFt": 980,
+    "yearBuilt": 2019,
+    "status": "ready-to-move",
+    "tags": [
+      "society flat",
+      "covered parking",
+      "near Hinjewadi"
+    ],
+    "amenities": [
+      "Swimming pool",
+      "Multipurpose hall",
+      "Senior citizen sit-out"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Well-maintained 2 BHK society flat with clubhouse and quick access to Hinjewadi IT Park.",
+    "yield": 0
+  },
+  {
+    "id": "buy-delhi-dwarka-3bhk-society-3",
+    "mode": "buy",
+    "category": "society-flat",
+    "title": "Dwarka Sector 12 3 BHK Society Home",
+    "developer": "CGHS",
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "neighborhood": "Dwarka Sector 12",
+      "addressLine": "Near Metro Station, Sector 12",
+      "pincode": "110078",
+      "geo": [
+        28.5921,
+        77.046
+      ]
+    },
+    "price": 15500000,
+    "currency": "INR",
+    "beds": 3,
+    "baths": 3,
+    "areaSqFt": 1650,
+    "yearBuilt": 2015,
+    "status": "ready-to-move",
+    "tags": [
+      "society home",
+      "near metro",
+      "RWA maintained"
+    ],
+    "amenities": [
+      "Lift",
+      "24x7 security",
+      "Park"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1448630360428-65456885c650?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Spacious 3 BHK society home with dedicated parking and park-facing balcony in Dwarka.",
+    "yield": 0
+  },
+  {
+    "id": "buy-mumbai-1rk-studio-4",
+    "mode": "buy",
+    "category": "1rk",
+    "title": "Andheri East 1 RK Studio",
+    "developer": "Independent",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "neighborhood": "Andheri East",
+      "addressLine": "Marol Naka, Andheri Kurla Road",
+      "pincode": "400059",
+      "geo": [
+        19.1121,
+        72.8697
+      ]
+    },
+    "price": 4800000,
+    "currency": "INR",
+    "beds": 1,
+    "baths": 1,
+    "areaSqFt": 380,
+    "yearBuilt": 2010,
+    "status": "tenanted",
+    "tags": [
+      "1 RK",
+      "investor unit",
+      "close to metro"
+    ],
+    "amenities": [
+      "Lift",
+      "Security",
+      "Water storage"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1484100356142-db6ab6244067?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Compact 1 RK ideal for working professionals in Andheri SEEPZ and MIDC belt.",
+    "yield": 0
+  },
+  {
+    "id": "buy-bangalore-villa-sarjapur-5",
+    "mode": "buy",
+    "category": "villa",
+    "title": "Sarjapur 4 BHK Villa with Private Garden",
+    "developer": "Prestige",
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "neighborhood": "Sarjapur Road",
+      "addressLine": "Off Sarjapur Main Road",
+      "pincode": "560035",
+      "geo": [
+        12.9081,
+        77.787
+      ]
+    },
+    "price": 26500000,
+    "currency": "INR",
+    "beds": 4,
+    "baths": 4,
+    "areaSqFt": 3100,
+    "yearBuilt": 2022,
+    "status": "ready-to-move",
+    "tags": [
+      "villa",
+      "clubhouse",
+      "corner plot"
+    ],
+    "amenities": [
+      "Swimming pool",
+      "Tennis court",
+      "Party lawn"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Luxury 4 BHK villa with landscaped garden and clubhouse access near major international schools.",
+    "yield": 0
+  },
+  {
+    "id": "buy-noida-expressway-2bhk-6",
+    "mode": "buy",
+    "category": "apartment",
+    "title": "Noida Expressway 2 BHK Apartment",
+    "developer": "ATS",
+    "location": {
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "neighborhood": "Sector 150",
+      "addressLine": "Off Noida-Greater Noida Expressway",
+      "pincode": "201310",
+      "geo": [
+        28.4744,
+        77.503
+      ]
+    },
+    "price": 13500000,
+    "currency": "INR",
+    "beds": 2,
+    "baths": 2,
+    "areaSqFt": 1250,
+    "yearBuilt": 2021,
+    "status": "ready-to-move",
+    "tags": [
+      "golf course",
+      "low density",
+      "green township"
+    ],
+    "amenities": [
+      "Clubhouse",
+      "Jogging track",
+      "Indoor games"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1502672023488-70e25813eb80?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1448630360428-65456885c650?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Premium 2 BHK with golf-view and resort-style clubhouse on Noida Expressway.",
+    "yield": 0
+  },
+  {
+    "id": "buy-chennai-omr-3bhk-7",
+    "mode": "buy",
+    "category": "apartment",
+    "title": "OMR 3 BHK Sea Breeze Apartments",
+    "developer": "Casagrand",
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "neighborhood": "OMR",
+      "addressLine": "Sholinganallur Junction",
+      "pincode": "600119",
+      "geo": [
+        12.8996,
+        80.2277
+      ]
+    },
+    "price": 9800000,
+    "currency": "INR",
+    "beds": 3,
+    "baths": 3,
+    "areaSqFt": 1420,
+    "yearBuilt": 2020,
+    "status": "ready-to-move",
+    "tags": [
+      "sea breeze",
+      "IT corridor",
+      "clubhouse"
+    ],
+    "amenities": [
+      "Swimming pool",
+      "GYM",
+      "Party hall"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1484100356142-db6ab6244067?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Modern 3 BHK flat near IT hubs with sea breeze and complete lifestyle amenities.",
+    "yield": 0
+  },
+  {
+    "id": "buy-ahmedabad-bopal-3bhk-8",
+    "mode": "buy",
+    "category": "independent-house",
+    "title": "Bopal 3 BHK Independent House",
+    "developer": "Independent",
+    "location": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "neighborhood": "Bopal",
+      "addressLine": "Near Bopal Cross Road",
+      "pincode": "380058",
+      "geo": [
+        23.0268,
+        72.5011
+      ]
+    },
+    "price": 14500000,
+    "currency": "INR",
+    "beds": 3,
+    "baths": 3,
+    "areaSqFt": 2100,
+    "yearBuilt": 2014,
+    "status": "ready-to-move",
+    "tags": [
+      "independent house",
+      "covered parking",
+      "peaceful locality"
+    ],
+    "amenities": [
+      "Compound wall",
+      "Borewell",
+      "Security"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1434082033009-b81d41d32e1c?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Independent 3 BHK house in Bopal with own compound and borewell.",
+    "yield": 0
+  },
+  {
+    "id": "rent-bangalore-koramangala-pg-1",
+    "mode": "rent",
+    "category": "pg",
+    "title": "Koramangala Co-living PG for Working Professionals",
+    "developer": "CoLiving Operator",
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "neighborhood": "Koramangala 5th Block",
+      "addressLine": "Near Forum Mall",
+      "pincode": "560095",
+      "geo": [
+        12.9352,
+        77.6245
+      ]
+    },
+    "price": 18000,
+    "currency": "INR",
+    "beds": 1,
+    "baths": 1,
+    "areaSqFt": 220,
+    "yearBuilt": 2018,
+    "status": "available",
+    "tags": [
+      "PG",
+      "all meals",
+      "wifi"
+    ],
+    "amenities": [
+      "Housekeeping",
+      "High-speed WiFi",
+      "Community events"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Fully managed co-living PG with all meals and housekeeping included, walkable from Forum Mall.",
+    "yield": 0
+  },
+  {
+    "id": "rent-delhi-saket-1bhk-2",
+    "mode": "rent",
+    "category": "apartment",
+    "title": "Saket 1 BHK Builder Floor",
+    "developer": "Independent",
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "neighborhood": "Saket",
+      "addressLine": "Near PVR Anupam",
+      "pincode": "110017",
+      "geo": [
+        28.5286,
+        77.2193
+      ]
+    },
+    "price": 26000,
+    "currency": "INR",
+    "beds": 1,
+    "baths": 1,
+    "areaSqFt": 650,
+    "yearBuilt": 2015,
+    "status": "available",
+    "tags": [
+      "builder floor",
+      "independent entrance",
+      "near metro"
+    ],
+    "amenities": [
+      "Parking",
+      "Security",
+      "Water storage"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Bright 1 BHK builder floor in Saket with independent entrance and easy metro access.",
+    "yield": 0
+  },
+  {
+    "id": "rent-mumbai-kandivali-2bhk-society-3",
+    "mode": "rent",
+    "category": "society-flat",
+    "title": "Kandivali East 2 BHK Society Flat",
+    "developer": "Mahindra",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "neighborhood": "Kandivali East",
+      "addressLine": "Lokhandwala Township",
+      "pincode": "400101",
+      "geo": [
+        19.2094,
+        72.8585
+      ]
+    },
+    "price": 38000,
+    "currency": "INR",
+    "beds": 2,
+    "baths": 2,
+    "areaSqFt": 910,
+    "yearBuilt": 2012,
+    "status": "available",
+    "tags": [
+      "society flat",
+      "semi furnished",
+      "family preferred"
+    ],
+    "amenities": [
+      "Clubhouse",
+      "Gym",
+      "Garden"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1505692794400-5e0f0c4b69b5?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Family-friendly 2 BHK in a gated society with clubhouse and garden in Kandivali East.",
+    "yield": 0
+  },
+  {
+    "id": "rent-hyderabad-gachibowli-3bhk-4",
+    "mode": "rent",
+    "category": "apartment",
+    "title": "Gachibowli 3 BHK Furnished Apartment",
+    "developer": "My Home",
+    "location": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "neighborhood": "Gachibowli",
+      "addressLine": "Financial District",
+      "pincode": "500032",
+      "geo": [
+        17.4401,
+        78.3489
+      ]
+    },
+    "price": 52000,
+    "currency": "INR",
+    "beds": 3,
+    "baths": 3,
+    "areaSqFt": 1450,
+    "yearBuilt": 2019,
+    "status": "available",
+    "tags": [
+      "IT hub",
+      "fully furnished",
+      "covered parking"
+    ],
+    "amenities": [
+      "Swimming pool",
+      "Clubhouse",
+      "Power backup"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "3 BHK furnished apartment in Gachibowli with clubhouse and pool, ideal for IT professionals.",
+    "yield": 0
+  },
+  {
+    "id": "rent-pune-viman-1rk-5",
+    "mode": "rent",
+    "category": "1rk",
+    "title": "Viman Nagar 1 RK Studio for Students",
+    "developer": "Independent",
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "neighborhood": "Viman Nagar",
+      "addressLine": "Symbiosis College Road",
+      "pincode": "411014",
+      "geo": [
+        18.5679,
+        73.9137
+      ]
+    },
+    "price": 14000,
+    "currency": "INR",
+    "beds": 1,
+    "baths": 1,
+    "areaSqFt": 280,
+    "yearBuilt": 2017,
+    "status": "available",
+    "tags": [
+      "1 RK",
+      "student friendly",
+      "walk to college"
+    ],
+    "amenities": [
+      "Bed & wardrobe",
+      "RO water",
+      "WiFi"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Furnished 1 RK studio ideal for Symbiosis and college students in Viman Nagar.",
+    "yield": 0
+  },
+  {
+    "id": "rent-chennai-anna-nagar-room-6",
+    "mode": "rent",
+    "category": "room",
+    "title": "Anna Nagar Single Room in Family House",
+    "developer": "Independent",
+    "location": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "neighborhood": "Anna Nagar",
+      "addressLine": "Near Tower Park",
+      "pincode": "600040",
+      "geo": [
+        13.0827,
+        80.2707
+      ]
+    },
+    "price": 9500,
+    "currency": "INR",
+    "beds": 1,
+    "baths": 1,
+    "areaSqFt": 190,
+    "yearBuilt": 2010,
+    "status": "available",
+    "tags": [
+      "room",
+      "family only",
+      "vegetarian"
+    ],
+    "amenities": [
+      "Separate bathroom",
+      "Wardrobe",
+      "Balcony"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Single room in a family house in Anna Nagar, ideal for working women.",
+    "yield": 0
+  },
+  {
+    "id": "rent-jaipur-mansarovar-2bhk-7",
+    "mode": "rent",
+    "category": "apartment",
+    "title": "Mansarovar 2 BHK Apartment",
+    "developer": "Independent",
+    "location": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "neighborhood": "Mansarovar",
+      "addressLine": "Near Akshardham Temple",
+      "pincode": "302020",
+      "geo": [
+        26.862,
+        75.765
+      ]
+    },
+    "price": 17000,
+    "currency": "INR",
+    "beds": 2,
+    "baths": 2,
+    "areaSqFt": 900,
+    "yearBuilt": 2013,
+    "status": "available",
+    "tags": [
+      "family",
+      "semi furnished",
+      "gated"
+    ],
+    "amenities": [
+      "Lift",
+      "Security",
+      "Parking"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1434082033009-b81d41d32e1c?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "2 BHK apartment in Mansarovar with lift and parking, suitable for small families.",
+    "yield": 0
+  },
+  {
+    "id": "sell-mumbai-commercial-andheri-1",
+    "mode": "sell",
+    "category": "commercial",
+    "title": "Andheri East Office Space 5000 sq.ft",
+    "developer": "Developer",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "neighborhood": "Andheri East",
+      "addressLine": "Andheri Kurla Road",
+      "pincode": "400059",
+      "geo": [
+        19.1136,
+        72.8697
+      ]
+    },
+    "price": 90000000,
+    "currency": "INR",
+    "beds": 0,
+    "baths": 4,
+    "areaSqFt": 5000,
+    "yearBuilt": 2016,
+    "status": "leased",
+    "tags": [
+      "commercial",
+      "leased asset",
+      "investor"
+    ],
+    "amenities": [
+      "DG backup",
+      "Lift",
+      "Security"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1451976426598-a7593bd6d0b2?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Fully leased office space in Andheri East with stable MNC tenant, ideal for investors.",
+    "yield": 0
+  },
+  {
+    "id": "sell-delhi-saket-4bhk-2",
+    "mode": "sell",
+    "category": "independent-house",
+    "title": "Saket 4 BHK Independent House",
+    "developer": "Independent",
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "neighborhood": "Saket",
+      "addressLine": "Near PVR Saket",
+      "pincode": "110017",
+      "geo": [
+        28.5286,
+        77.2193
+      ]
+    },
+    "price": 45000000,
+    "currency": "INR",
+    "beds": 4,
+    "baths": 4,
+    "areaSqFt": 3600,
+    "yearBuilt": 2010,
+    "status": "ready-to-move",
+    "tags": [
+      "independent house",
+      "park facing",
+      "wide road"
+    ],
+    "amenities": [
+      "Parking",
+      "Terrace",
+      "Servant room"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1448630360428-65456885c650?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Large 4 BHK independent house in Saket on wide road, ideal for self-use or clinic.",
+    "yield": 0
+  },
+  {
+    "id": "sell-bangalore-whitefield-3bhk-3",
+    "mode": "sell",
+    "category": "apartment",
+    "title": "Whitefield 3 BHK Resale Apartment",
+    "developer": "Prestige",
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "neighborhood": "Whitefield",
+      "addressLine": "Near ITPL",
+      "pincode": "560066",
+      "geo": [
+        12.9698,
+        77.75
+      ]
+    },
+    "price": 13500000,
+    "currency": "INR",
+    "beds": 3,
+    "baths": 3,
+    "areaSqFt": 1550,
+    "yearBuilt": 2014,
+    "status": "ready-to-move",
+    "tags": [
+      "resale",
+      "clubhouse",
+      "corner unit"
+    ],
+    "amenities": [
+      "Swimming pool",
+      "Tennis court",
+      "Children's play area"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Well-ventilated 3 BHK resale apartment in Whitefield with full clubhouse access.",
+    "yield": 0
+  },
+  {
+    "id": "sell-pune-hinjewadi-2bhk-4",
+    "mode": "sell",
+    "category": "society-flat",
+    "title": "Hinjewadi Phase 2 2 BHK Society Flat",
+    "developer": "Megapolis",
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "neighborhood": "Hinjewadi",
+      "addressLine": "Phase 2 IT Park Road",
+      "pincode": "411057",
+      "geo": [
+        18.597,
+        73.718
+      ]
+    },
+    "price": 9200000,
+    "currency": "INR",
+    "beds": 2,
+    "baths": 2,
+    "areaSqFt": 1040,
+    "yearBuilt": 2018,
+    "status": "ready-to-move",
+    "tags": [
+      "IT park facing",
+      "amenities",
+      "society flat"
+    ],
+    "amenities": [
+      "Clubhouse",
+      "Gym",
+      "Swimming pool"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "2 BHK society flat in Hinjewadi with complete lifestyle amenities inside IT corridor.",
+    "yield": 0
+  },
+  {
+    "id": "sell-large-gallery-flagship-1",
+    "mode": "sell",
+    "category": "villa",
+    "title": "Flagship 5 BHK Ultra Luxury Villa with 20+ Photos",
+    "developer": "Luxury Estates",
+    "location": {
+      "city": "Gurugram",
+      "state": "Haryana",
+      "neighborhood": "Golf Course Road",
+      "addressLine": "DLF Phase 5",
+      "pincode": "122009",
+      "geo": [
+        28.451,
+        77.072
+      ]
+    },
+    "price": 125000000,
+    "currency": "INR",
+    "beds": 5,
+    "baths": 6,
+    "areaSqFt": 7800,
+    "yearBuilt": 2023,
+    "status": "ready-to-move",
+    "tags": [
+      "ultra luxury",
+      "golf course",
+      "private lift"
+    ],
+    "amenities": [
+      "Infinity pool",
+      "Home theatre",
+      "Gym",
+      "Terrace garden"
+    ],
+    "heroImage": "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1434082033009-b81d41d32e1c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502672023488-70e25813eb80?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505692794400-5e0f0c4b69b5?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1451976426598-a7593bd6d0b2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "description": "Signature 5 BHK ultra luxury villa on Golf Course Road with 20+ professional photos showcasing every corner.",
+    "yield": 0
+  }
+]
